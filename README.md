@@ -30,7 +30,7 @@ The Image Processing App Application allows users to display images, providing a
 - **Hybrid Images:** Mix two Images.
 - 
 ## App Images
-![Canny](C:\Users\Arsany Maged\Desktop\canny.PNG)
+[Canny](C:\Users\Arsany Maged\Desktop\canny.PNG)
 ## Requirements
 
 List the dependencies and requirements needed to run the application.
