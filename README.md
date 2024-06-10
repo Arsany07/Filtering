@@ -1,1 +1,1 @@
-# CV_Task_1
+# Filtering and Edge Detection
