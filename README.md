@@ -6,7 +6,6 @@ The Image Processing App Application is a PyQt5-based tool for manipulating imag
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [App Images](#App-Images)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -29,8 +28,7 @@ The Image Processing App Application allows users to display images, providing a
 
 - **Hybrid Images:** Mix two Images.
 - 
-## App Images
-[Canny](C:\Users\Arsany Maged\Desktop\canny.PNG)
+
 ## Requirements
 
 List the dependencies and requirements needed to run the application.
