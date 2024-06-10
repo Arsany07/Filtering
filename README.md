@@ -1,6 +1,6 @@
-# Filtering and Edge Detection
+# Image Processing App
 
-The Filtering and Edge Detection Application is a PyQt5-based tool for manipulating images.
+The Image Processing App Application is a PyQt5-based tool for manipulating images.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ The Filtering and Edge Detection Application is a PyQt5-based tool for manipulat
 
 ## Introduction
 
-The Signal Viewer Application allows users to visualize and analyze signals in real-time, providing a feature-rich interface for signal manipulation and data analysis.
+The Image Processing App Application allows users to display images, providing a feature-rich interface for image manipulation.
 
 ## Features
 
